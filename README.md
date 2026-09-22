@@ -1,14 +1,10 @@
-## Send-A-Spline
+## Flashcards
 
 Copyright 2026 Steven Mycynek
 
 version: 000357
 
-# A simple bezier spline app
-
-In my spare time, I've tried to learn more about splines. So far, I have a simple bezier implementation. It's a single high-order polynomial curve -- I might build a composite curve of many quadratic or cubic beziers in the future.
-
-Curve definitions are saved to local storage, so you can come back to the site later and continue editing a curve. You can also share the curve definition over text, etc.. via a URL query string.
+# A simple flash card app
 
 ## Installation
 
