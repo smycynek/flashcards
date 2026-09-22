@@ -9,5 +9,5 @@ const getRandomProduct = (): [number, number, number] => {
 
 export const getExpression = (): [string, string] => {
   const [rand1, rand2, product] = getRandomProduct();
-  return [`${rand1} x ${rand2}`, `${rand1} x ${rand2} = ${product}`];
+  return [`${rand1} \u00D7 ${rand2}`, `${rand1} \u00D7 ${rand2} = ${product}`];
 };
