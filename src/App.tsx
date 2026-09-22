@@ -57,6 +57,17 @@ const App: Component = () => {
             v {version}
           </div>
         </div>
+
+        <div class="label cite">
+          <a
+            title="More info here. Contact me with questions."
+            href="https://github.com/smycynek/flashcards"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://github.com/smycynek/flashcards
+          </a>
+        </div>
       </header>
     </div>
   );

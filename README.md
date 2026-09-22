@@ -2,7 +2,7 @@
 
 Copyright 2026 Steven Mycynek
 
-version: 000357
+version: 000358
 
 # A simple flash card app
 
